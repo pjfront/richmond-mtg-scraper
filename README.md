@@ -1,1 +1,1 @@
-# richmond-mtg-scraper
+# Richmond Meeting Archive (PoC)
